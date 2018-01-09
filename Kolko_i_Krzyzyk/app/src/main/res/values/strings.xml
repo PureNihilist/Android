@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kółko i krzyżyk</string>
+    <string name="computer_player">Gracz komputerowy</string>
+    <string name="computer_on">Gracz komputerowy został włączony</string>
+    <string name="computer_off">Gracz komputerowy został wyłączony</string>
+    <string name="game_won_circle">Gra została wygrana przez pierwszego gracza! (KÓŁKO)</string>
+    <string name="game_won_cross">Gra została wygrana przez drugiego gracza! (KRZYŻYK)</string>
+    <string name="game_draw">Gra zakończyła się remisem!</string>
+    <string name="new_game">Nowa gra</string>
+</resources>

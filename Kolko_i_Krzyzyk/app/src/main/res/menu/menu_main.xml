@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="https//schemas.android.com/apk/res-auto"
+    >
+    <group
+        android:id="@+id/exclusive_checkable_group"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_computer_player"
+            android:checkable="true"
+            android:enabled="true"
+            android:title="@string/computer_player"
+            app:showAsActions="always"
+        />
+    </group>
+    <item
+        android:id="@+id/action_new_game"
+        android:title="@string/new_game"
+        android:checkableBehavior="single"
+        app:showAsActions="always"
+    />
+
+</menu>

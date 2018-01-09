@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noughts and crosses</string>
+    <string name="computer_player">Computer player</string>
+    <string name="computer_on">Computer player is on</string>
+    <string name="computer_off">Computer player is off</string>
+    <string name="game_won_circle">Game won by first player! (CIRCLE)</string>
+    <string name="game_won_cross">Game won by second player! (CROSS)</string>
+    <string name="game_draw">Game ended with draw!</string>
+    <string name="new_game">New game</string>
+</resources>
